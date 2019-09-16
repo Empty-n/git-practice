@@ -1,0 +1,3 @@
+Name: Bischoff  
+Age: 27
+Favorite Color: Blue
